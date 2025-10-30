@@ -45,11 +45,11 @@ OBJECTIVES
 
 ### DATA ANALYSIS
 Data Metrics used
-- Total Employees, Active Employees, Exit Employees.
-- Retention rate & Turnover Rate.
-- Average Salary, Bonus and Benefits.
-- Average performance Rating, Training Hours & Employee Satisfaction.
-- Sales and Store Type.
+- Employee Metrics: Total Employees, Active Employees, Exit Employees.
+- HR Metrics: Retention rate & Turnover Rate.
+- Compensation Metrics: Average Salary, Bonus and Benefits.
+- Performance Metrics: Average performance Rating, Training Hours & Employee Satisfaction.
+- Operational Metrics: Sales and Store Type.
 
 ### DASHBOARD & INSIGHTS
 1. Employee Overview
